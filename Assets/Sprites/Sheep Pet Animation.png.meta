@@ -1,0 +1,602 @@
+fileFormatVersion: 2
+guid: a9a9ce019386109419caea0c83f99d14
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sheep Pet Animation_0
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 81
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0632fe9be2836fa4283c186f7b83eb67
+      internalID: -1779530797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheep Pet Animation_1
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 86
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e7d7010b1b64f49bd64b4990f3f3ca
+      internalID: 172285560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheep Pet Animation_2
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 85
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bac54759c45804a8f801992809019c
+      internalID: -606470725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheep Pet Animation_3
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 80
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34bdf4b3ec333949a257f154a267b98
+      internalID: -1145415871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheep Pet Animation_4
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 88
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fd3873d6cc7ba42988f71fdd3fb3cc
+      internalID: 1837244060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheep Pet Animation_5
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 94
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4ab1957108a2d4fac8a72f89fab820
+      internalID: 256547691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheep Pet Animation_6
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 98
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e165dc268790c4ab44227ed1bb6671
+      internalID: -909819135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheep Pet Animation_7
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 80
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867bcac628c794e418ed5a9040ffe0f7
+      internalID: 326526563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheep Pet Animation_8
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 72
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3764d59532de0847aafc3ae8c7f137c
+      internalID: 1574078231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheep Pet Animation_9
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 71
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084a9968f72bb1448bd6e215f24de56b
+      internalID: 605123808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheep Pet Animation_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 115
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c66c9309d6bc9e4f96fb7e88fdb8d3d
+      internalID: -256101849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheep Pet Animation_11
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 115
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3297622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3960c97388e1fc45aae14cd12da3666
+      internalID: -1029947819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheep Pet Animation_12
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 121
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.324755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfdd10fe5b7d9a489b0a1e97d2860d7
+      internalID: -19736304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheep Pet Animation_13
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 0
+        width: 119
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31084695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e861cdc1da431b545a1ae40b23c8a21f
+      internalID: 1218810496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheep Pet Animation_14
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 115
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28528568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00aa83ca6b2bf064daeb94e63ff1ae5a
+      internalID: -1861666812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheep Pet Animation_15
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 0
+        width: 116
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36759278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecace3dc02bf6346a466d0b788df041
+      internalID: -904292893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheep Pet Animation_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 0
+        width: 115
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34440625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef704d5ca1805d47b843c4db09f48a6
+      internalID: -456738917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheep Pet Animation_17
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 0
+        width: 116
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3281252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1821aa344f47344a5e58ff4b92dfd0
+      internalID: -1846983771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheep Pet Animation_18
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 0
+        width: 118
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3041511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902fd44f90c7b3946b779ffb7ce9fbd6
+      internalID: -1442412043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheep Pet Animation_19
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 0
+        width: 116
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26195553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d352908633269a4cab9e7a175ab446e
+      internalID: 1158876144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sheep Pet Animation_20
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 0
+        width: 116
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2837143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48284ab1ae4562d47abda98bdd928f68
+      internalID: 609124272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sheep Pet Animation_0: -1779530797
+      Sheep Pet Animation_1: 172285560
+      Sheep Pet Animation_10: -256101849
+      Sheep Pet Animation_11: -1029947819
+      Sheep Pet Animation_12: -19736304
+      Sheep Pet Animation_13: 1218810496
+      Sheep Pet Animation_14: -1861666812
+      Sheep Pet Animation_15: -904292893
+      Sheep Pet Animation_16: -456738917
+      Sheep Pet Animation_17: -1846983771
+      Sheep Pet Animation_18: -1442412043
+      Sheep Pet Animation_19: 1158876144
+      Sheep Pet Animation_2: -606470725
+      Sheep Pet Animation_20: 609124272
+      Sheep Pet Animation_3: -1145415871
+      Sheep Pet Animation_4: 1837244060
+      Sheep Pet Animation_5: 256547691
+      Sheep Pet Animation_6: -909819135
+      Sheep Pet Animation_7: 326526563
+      Sheep Pet Animation_8: 1574078231
+      Sheep Pet Animation_9: 605123808
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
